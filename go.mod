@@ -7,4 +7,4 @@ require (
 	github.com/spf13/cobra v1.3.0
 )
 
-replace github.com/armstrongli/go-bmi => ./liqiang/staging/src/github.com/armstrongli/go-bmi
+replace github.com/armstrongli/go-bmi => ../liqiang/staging/src/github.com/armstrongli/go-bmi
