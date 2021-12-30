@@ -4,11 +4,11 @@
 实现体脂率和计算器
 
 ## 第二次作业
-### 内容：为体脂计算器编写单元测试并完善体脂计算器的验证逻辑。
-### 课后作业 1
-### 内容：使用 github 上的 lib： github.com/armstrongli/go-bmi 完成体脂计算器。
-### 本地添加 module 的 replace，并在本地项目扩展 github.com/armstrongli/go-bmi 以支持 BMI、FatRate 的计算。
-### 使用 vendor 保证代码的完整性与可运行。
+内容：为体脂计算器编写单元测试并完善体脂计算器的验证逻辑。
+课后作业 1
+内容：使用 github 上的 lib： github.com/armstrongli/go-bmi 完成体脂计算器。
+本地添加 module 的 replace，并在本地项目扩展 github.com/armstrongli/go-bmi 以支持 BMI、FatRate 的计算。
+使用 vendor 保证代码的完整性与可运行。
 
 ### 课后作业 2
 ### 内容：为体脂计算器编写单元测试并完善体脂计算器的验证逻辑。
